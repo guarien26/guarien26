@@ -1,6 +1,6 @@
 # Hi, I'm Guarien 👋
 
-<p><img src="https://komarev.com/ghpvc/?username=guarien26&style=flat-square&color=0f3460&label=PROFILE+VIEWS" alt="Profile Views" /> &nbsp; <!--QUOTE_START--><b><i>"The people who are crazy enough to think they can change the world are the ones who do."</i></b><!--QUOTE_END--></p>
+<p><img src="https://komarev.com/ghpvc/?username=guarien26&style=flat-square&color=0f3460&label=PROFILE+VIEWS" alt="Profile Views" /> &nbsp; <!--QUOTE_START--><b><i>"The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs</i></b><!--QUOTE_END--></p>
 
 ```json
 {
@@ -28,22 +28,27 @@
 
   "currently_learning": ["Machine Learning"],
   "goals": ["Become better as a person and engineer"],
-  "hobbies": ["Rock Climbing", "Astronomy", "Travel", "Marathon Running", "Nature"],
-  "places_traveled": ["Ghana", "Portugal", "Vietnam", "Cuba", "Spain"]
+  "hobbies": ["Rock Climbing", "Astronomy", "Travel", "Marathon Running", "Nature"]
 }
 ```
 
-<h3>How to reach me</h3>
-
-<a href="https://www.linkedin.com/in/guarien-barone/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:gb2665@nyu.edu">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="./assets/Guarien_Barone_Resume.pdf">
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
-</a>
+<table>
+  <tr>
+    <td><img src="./assets/vader.gif" width="150"/></td>
+    <td>
+      <h3>How to reach me</h3>
+      <a href="https://www.linkedin.com/in/guarien-barone/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+      <a href="mailto:gb2665@nyu.edu">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+      <a href="./assets/Guarien_Barone_Resume.pdf">
+        <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3>GitHub Stats</h3>
 
