@@ -27,10 +27,7 @@
 
 <h3>GitHub Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=guarien26&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com?user=guarien26&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guarien26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com?user=guarien26&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <h3>Languages and Tools</h3>
 
