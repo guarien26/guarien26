@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love marathon running and rock climbing as much as I love coding
 
 <!--QUOTE_START-->
-*"Belief is not a matter of choice, but of conviction."*
+*"The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs*
 <!--QUOTE_END-->
 
 <h3>How to reach me</h3>
@@ -27,7 +27,10 @@
 
 <h3>GitHub Stats</h3>
 
-<img src="https://teoxoy.github.io/profile-readme-stats/api/card?username=guarien26&template=2" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=guarien26&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://streak-stats.demolab.com?user=guarien26&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guarien26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <h3>Languages and Tools</h3>
 
