@@ -13,7 +13,7 @@
 *"Belief is not a matter of choice, but of conviction."*
 <!--QUOTE_END-->
 
-<h3>🤝 How to reach me:</h3>
+<h3>How to reach me</h3>
 
 <a href="https://www.linkedin.com/in/guarien-barone/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -25,15 +25,14 @@
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
 
-<h3>📊 Coding Stats</h3>
+<h3>GitHub Stats</h3>
 
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
+<img src="https://teoxoy.github.io/profile-readme-stats/api/card?username=guarien26&template=2" alt="GitHub Stats"/>
 
-<h3>🛠️ Languages and Tools:</h3>
+<h3>Languages and Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,bash,git,github,linux,jenkins,vscode,flask,mysql,tensorflow,arduino,matlab&perline=8" alt="Tools"/>
 
-<h3>🧱 Contribution Graph:</h3>
+<h3>Contributions</h3>
 
 <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" width="100%"/>
