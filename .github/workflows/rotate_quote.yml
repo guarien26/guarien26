@@ -47,7 +47,7 @@ jobs:
 
           content = readme_path.read_text(encoding="utf-8")
           pattern = r'<!--QUOTE_START-->.*?<!--QUOTE_END-->'
-          replacement = f'<!--QUOTE_START-->\n> {quote}\n<!--QUOTE_END-->'
+          replacement = f'<!--QUOTE_START-->\n*"{quote}"*\n<!--QUOTE_END-->'
           updated = re.sub(pattern, replacement, content, flags=re.DOTALL)
 
           readme_path.write_text(updated, encoding="utf-8")

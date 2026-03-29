@@ -2,8 +2,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=guarien26&style=flat-square&color=0f3460&label=PROFILE+VIEWS" alt="Profile Views" />
 
-- 🔭 I'm currently working on embedded systems and machine learning projects
-- 🌱 I'm currently learning applied ML and expanding into systems programming
+- 👨‍💻 Computer Engineering student at NYU who loves working on projects that challenge and inspire me
+- 🔭 Currently building in embedded systems and machine learning
+- 🌱 Expanding into systems programming and applied ML on real-world data
 - 💬 Ask me about Python, embedded systems, or building for social impact
 - 🌍 Traveled to Ghana, Portugal, and Vietnam — it shaped how I think about engineering
 - ⚡ Fun fact: I love marathon running and rock climbing as much as I love coding
@@ -20,17 +21,10 @@
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
 
-### ✨ Quote of the Day
-
 <!--QUOTE_START-->
-> The people who are crazy enough to think they can change the world are the ones who do. — Steve Jobs
+*"The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs*
 <!--QUOTE_END-->
 
-### 🌍 Community and Purpose
-
-> Engineering is most powerful when it serves people who need it most.
-
-I care about using technical knowledge to support underrepresented communities and create more access, representation, and opportunity in STEM. One of my long-term goals is mentorship — helping the next generation of engineers find their place in this field.
 
 ### 📊 Coding Stats
 
@@ -41,21 +35,17 @@ I care about using technical knowledge to support underrepresented communities a
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,bash,git,github,linux,jenkins,vscode,flask,mysql,tensorflow,arduino,matlab&perline=8" alt="Tools"/>
 
+### Most Used Languages:
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guarien26&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
 ### 📈 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=guarien26&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=guarien26&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=guarien26&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guarien26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=guarien26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170"/>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=guarien26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=guarien26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
 
 ### 🧱 Contribution Graph:
 
