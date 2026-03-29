@@ -28,7 +28,7 @@
 ## ✨ Quote of the Day
 
 <!--QUOTE_START-->
-> The people who are crazy enough to think they can change the world are the ones who do. — Steve Jobs
+> First quote of the day
 <!--QUOTE_END-->
 
 ---
