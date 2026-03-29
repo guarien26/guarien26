@@ -5,27 +5,30 @@
 ```json
 {
   "name": "Guarien Barone Jr.",
-  "located_in": "New York, NY",
+  "located_in": "Austin, Texas",
+  "current_job": "Software Engineer",
+  "company": "Dell Technologies",
   "education": "B.S. Computer Engineering, NYU Tandon",
 
   "fields_of_interest": [
     "Machine Learning",
     "Embedded Systems",
     "Software Engineering",
-    "Social Impact Tech",
+    "Social Innovation",
     "Public Policy & Technology"
   ],
 
-  "technical_background": [
-    "Software Engineer Intern @ Dell Technologies",
-    "EEG Seizure Detection (AI + Hardware)",
-    "NASA Lunabotics Robotics Team",
-    "Haptic Feedback Device for the Visually Impaired"
+  "technical_projects": [
+    "AI-Powered EEG Seizure Detection: AI + embedded software",
+    "NYU RDT: NASA Lunabotics Team",
+    "Sixth Sense: (Haptic feedback device for the visually impaired)"
+    "Intern - Filesystem validation and automation",
+    "Intern - Remote diagnostic tools using computer networking",
   ],
 
-  "currently_learning": ["Systems Programming", "Applied ML on Real-World Data"],
-  "goals": ["Build tech that creates impact for underrepresented communities"],
-  "hobbies": ["Marathon Running", "Rock Climbing", "Astronomy", "Travel"]
+  "currently_learning": ["Machine Learning"],
+  "goals": ["Become better as a person and engineer"],
+  "hobbies": ["Rock Climbing", "Astronomy", "Travel","Marathon Running", "Nature"]
 }
 ```
 
