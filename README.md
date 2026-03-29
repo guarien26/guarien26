@@ -1,16 +1,101 @@
-## Hi there 👋
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:16213e&height=200&section=header&text=Guarien%20Barone%20Jr.&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Hardware%20%2B%20Software%20Builder%20%7C%20Impact%20Driven%20Engineer&descAlignY=60&descSize=18&descColor=a0b3c8"/>
 
+<!-- TYPING SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+data-driven+solutions+%F0%9F%9A%80;Hardware+%2B+Software+Engineer+%F0%9F%94%A7;Machine+Learning+for+the+public+good+%F0%9F%8C%8D;Future+mentor+%26+STEM+advocate+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
-**guarien26/guarien26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=guarien26&style=flat-square&color=0f3460&label=Profile+Views" alt="Profile Views" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/guarien-barone/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:gb2665@nyu.edu">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="./assets/Guarien_Barone_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## ✨ Quote of the Day
 
+<!--QUOTE_START-->
+> The people who are crazy enough to think they can change the world are the ones who do. — Steve Jobs
+<!--QUOTE_END-->
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guarien26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=guarien26&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guarien26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=guarien26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a computer engineer passionate about projects that take on real-world problems and turn data into learned solutions. My work spans embedded systems, machine learning, and software built for the public good.
+
+Traveling to **Ghana, Portugal, and Vietnam** shaped how I think about access and community — and continues to drive why I build what I build.
+
+---
+
+## ⚙️ Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,bash&perline=6" alt="Languages"/><br/>
+  <sub><b>Python · C++ · C · Java · JavaScript · Bash</b></sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,jenkins,vscode,flask&perline=6" alt="Tools"/><br/>
+  <sub><b>Git · GitHub · Linux · Jenkins · VS Code · Flask</b></sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,tensorflow,arduino,matlab&perline=4" alt="Other"/><br/>
+  <sub><b>MySQL · TensorFlow · Arduino · MATLAB</b></sub>
+</p>
+
+---
+
+## 🌍 Community and Purpose
+
+> Engineering is most powerful when it serves people who need it most.
+
+I care about using technical knowledge to support underrepresented communities and create more access, representation, and opportunity in STEM. One of my long-term goals is mentorship — helping the next generation of engineers find their place in this field.
+
+---
+
+<details>
+  <summary><strong>📈 Recent GitHub Activity</strong></summary>
+  <br>
+
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+
+</details>
+
+---
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3460,100:0d1117&height=120&section=footer"/>
