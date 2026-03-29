@@ -9,7 +9,11 @@
 - 🌍 Traveled to Ghana, Portugal, and Vietnam — it shaped how I think about engineering
 - ⚡ Fun fact: I love marathon running and rock climbing as much as I love coding
 
-### 🤝 How to reach me:
+<!--QUOTE_START-->
+*"The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs*
+<!--QUOTE_END-->
+
+<h3>🤝 How to reach me:</h3>
 
 <a href="https://www.linkedin.com/in/guarien-barone/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -21,41 +25,15 @@
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
 
-<!--QUOTE_START-->
-*"The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs*
-<!--QUOTE_END-->
-
-
-### 📊 Coding Stats
+<h3>📊 Coding Stats</h3>
 
 <!--START_SECTION:readme-info-->
 <!--END_SECTION:readme-info-->
 
-### 🛠️ Languages and Tools:
+<h3>🛠️ Languages and Tools:</h3>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,bash,git,github,linux,jenkins,vscode,flask,mysql,tensorflow,arduino,matlab&perline=8" alt="Tools"/>
 
-### Most Used Languages:
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guarien26&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-### 📈 GitHub Stats:
-
-<img src="https://streak-stats.demolab.com?user=guarien26&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=guarien26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=guarien26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
-
-### 🧱 Contribution Graph:
+<h3>🧱 Contribution Graph:</h3>
 
 <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" width="100%"/>
-
-<details>
-  <summary><strong>📈 Recent GitHub Activity</strong></summary>
-  <br>
-
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-
-</details>
