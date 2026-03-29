@@ -1,0 +1,32 @@
+name: GitHub Readme Info
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: th3c0d3br34ker/github-readme-info@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          TIMEZONE: America/New_York
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_DAILY_COMMIT: "True"
+          SHOW_WEEKLY_COMMIT: "True"
+          SHOW_LANGUAGE: "False"
+          SHOW_TOTAL_CONTRIBUTIONS: "False"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update coding stats"
+          git push
