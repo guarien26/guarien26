@@ -2,12 +2,32 @@
 
 <img src="https://komarev.com/ghpvc/?username=guarien26&style=flat-square&color=0f3460&label=PROFILE+VIEWS" alt="Profile Views" />
 
-- 👨‍💻 Computer Engineering student at NYU who loves working on projects that challenge and inspire me
-- 🔭 Currently building in embedded systems and machine learning
-- 🌱 Expanding into systems programming and applied ML on real-world data
-- 💬 Ask me about Python, embedded systems, or building for social impact
-- 🌍 Traveled to Ghana, Portugal, and Vietnam — it shaped how I think about engineering
-- ⚡ Fun fact: I love marathon running and rock climbing as much as I love coding
+```yaml
+name: Guarien Barone Jr.
+located_in: New York, NY
+education: B.S. Computer Engineering, NYU Tandon
+
+fields_of_interest:
+  [
+    "Machine Learning",
+    "Embedded Systems",
+    "Software Engineering",
+    "Social Impact Tech",
+    "Public Policy & Technology",
+  ]
+
+technical_background:
+  [
+    "Software Engineer Intern @ Dell Technologies",
+    "EEG Seizure Detection (AI + Hardware)",
+    "NASA Lunabotics Robotics Team",
+    "Haptic Feedback Device for the Visually Impaired",
+  ]
+
+currently_learning: ["Systems Programming", "Applied ML on Real-World Data"]
+goals: ["Build tech that creates impact for underrepresented communities"]
+hobbies: ["Marathon Running", "Rock Climbing", "Astronomy", "Travel"]
+```
 
 <!--QUOTE_START-->
 *"The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs*
@@ -35,4 +55,4 @@
 
 <h3>Contributions</h3>
 
-<img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" width="100%"/>
+<img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" width="50%"/>
