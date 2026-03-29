@@ -1,0 +1,63 @@
+name: Rotate Quote
+
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rotate-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Rotate quote in README
+        run: |
+          python <<'PY'
+          from pathlib import Path
+          import re
+
+          readme_path = Path("README.md")
+          quotes_path = Path("github_quotes.txt")
+          state_path = Path(".quote_state")
+
+          if not readme_path.exists():
+              raise SystemExit("README.md not found")
+          if not quotes_path.exists():
+              raise SystemExit("github_quotes.txt not found")
+
+          quotes = [line.strip() for line in quotes_path.read_text(encoding="utf-8").splitlines() if line.strip()]
+          if not quotes:
+              raise SystemExit("No quotes found in github_quotes.txt")
+
+          current_index = 0
+          if state_path.exists():
+              try:
+                  current_index = int(state_path.read_text(encoding="utf-8").strip())
+              except ValueError:
+                  current_index = 0
+
+          next_index = (current_index + 1) % len(quotes)
+          quote = quotes[next_index]
+
+          content = readme_path.read_text(encoding="utf-8")
+          pattern = r'<!--QUOTE_START-->.*?<!--QUOTE_END-->'
+          replacement = f'<!--QUOTE_START-->\n> {quote}\n<!--QUOTE_END-->'
+          updated = re.sub(pattern, replacement, content, flags=re.DOTALL)
+
+          readme_path.write_text(updated, encoding="utf-8")
+          state_path.write_text(str(next_index), encoding="utf-8")
+          PY
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md .quote_state
+          git diff --cached --quiet || git commit -m "Rotate quote"
+          git push
