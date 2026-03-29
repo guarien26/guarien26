@@ -1,6 +1,6 @@
 # Hi, I'm Guarien 👋
 
-<p><img src="https://komarev.com/ghpvc/?username=guarien26&style=flat-square&color=0f3460&label=PROFILE+VIEWS" alt="Profile Views" /> &nbsp; <!--QUOTE_START--><b><i>"The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs</i></b><!--QUOTE_END--></p>
+<p><img src="https://komarev.com/ghpvc/?username=guarien26&style=flat-square&color=0f3460&label=PROFILE+VIEWS" alt="Profile Views" /> &nbsp; <!--QUOTE_START--><b><i>"The people who are crazy enough to think they can change the world are the ones who do."</i></b><!--QUOTE_END--></p>
 
 ```json
 {
@@ -21,14 +21,15 @@
   "technical_projects": [
     "AI-Powered EEG Seizure Detection: AI + embedded software",
     "NYU RDT: NASA Lunabotics Team",
-    "Sixth Sense: (Haptic feedback device for the visually impaired)"
+    "Sixth Sense: Haptic feedback device for the visually impaired",
     "Intern - Filesystem validation and automation",
-    "Intern - Remote diagnostic tools using computer networking",
+    "Intern - Remote diagnostic tools using computer networking"
   ],
 
   "currently_learning": ["Machine Learning"],
   "goals": ["Become better as a person and engineer"],
-  "hobbies": ["Rock Climbing", "Astronomy", "Travel","Marathon Running", "Nature"]
+  "hobbies": ["Rock Climbing", "Astronomy", "Travel", "Marathon Running", "Nature"],
+  "places_traveled": ["Ghana", "Portugal", "Vietnam", "Cuba", "Spain"]
 }
 ```
 
