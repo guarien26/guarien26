@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Rotate quote in README
         run: |
@@ -60,4 +62,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md .quote_state
           git diff --cached --quiet || git commit -m "Rotate quote"
-          git push --force-with-lease
+          git push --force
