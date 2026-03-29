@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love marathon running and rock climbing as much as I love coding
 
 <!--QUOTE_START-->
-*"The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs*
+*"Belief is not a matter of choice, but of conviction."*
 <!--QUOTE_END-->
 
 <h3>🤝 How to reach me:</h3>
