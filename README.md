@@ -1,6 +1,6 @@
 # Hi, I'm Guarien 👋
 
-<p><img src="https://komarev.com/ghpvc/?username=guarien26&style=flat-square&color=0f3460&label=PROFILE+VIEWS" alt="Profile Views" /> &nbsp; <!--QUOTE_START--><b><i>"The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs</i></b><!--QUOTE_END--></p>
+<p><img src="https://komarev.com/ghpvc/?username=guarien26&style=flat-square&color=0f3460&label=PROFILE+VIEWS" alt="Profile Views" /> &nbsp; <!--QUOTE_START--><b><i>"The science of today is the technology of tomorrow. — Edward Teller"</i></b><!--QUOTE_END--></p>
 
 ```json
 {
